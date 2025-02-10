@@ -28,7 +28,7 @@ For **full results**, visit our **[Project Page](#project-page)**.
 
 ### **📌 KTH**
 <img src="./assets/prediction-examples/kth/bordered_video_2.gif" width="300">
-<img src="./assets/prediction-examples/kth/bordered_video_3.gif" width="300">
+<img src="./assets/prediction-examples/kth/bordered_video_5.gif" width="300">
 
 ---
 
