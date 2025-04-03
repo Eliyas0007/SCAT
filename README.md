@@ -47,6 +47,7 @@ It can be clearly seen that without cross-attention, objects are traveling "thro
 ## **News and TODO**
 - [ ] Create project page (Coming Soon)
 - [ ] Upload the model and training scripts with instructions.
+- [x] Similar segmentation process used in the paper is updated [here](https://github.com/Eliyas0007/AutoSAM) ✅
 - [x] Prediction Examples updated! ✅
 
 ## **Citation**
